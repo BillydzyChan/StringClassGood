@@ -1,0 +1,3 @@
+C:/Users/guoha/Documents/GitHub/StringClassGood/build/CMakeFiles/sayings.dir
+C:/Users/guoha/Documents/GitHub/StringClassGood/build/CMakeFiles/edit_cache.dir
+C:/Users/guoha/Documents/GitHub/StringClassGood/build/CMakeFiles/rebuild_cache.dir
