@@ -7,7 +7,7 @@
 #include <iostream>
 #include "stringgood.h"
 
-const int ArSize = 10;
+const int ArSize = 20;
 const int MaxLen = 81;
 
 int main(int argc, char const *argv[])
@@ -70,6 +70,5 @@ int main(int argc, char const *argv[])
     {
         cout << "No input! Bye.\n";
     }
-    //cin.get();
     return 0;
 }

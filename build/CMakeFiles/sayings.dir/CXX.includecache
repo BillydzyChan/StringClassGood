@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/guoha/Documents/GitHub/StringClassGood/sayings1.cpp
+iostream
+-
+stringgood.h
+C:/Users/guoha/Documents/GitHub/StringClassGood/stringgood.h
+
+C:/Users/guoha/Documents/GitHub/StringClassGood/stringgood.h
+iostream
+-
+
